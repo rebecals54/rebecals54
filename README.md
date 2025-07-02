@@ -13,6 +13,14 @@
 </body>
 </html>
 
+body {
+  background-color: #0d1b2a;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
 
 
 
