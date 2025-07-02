@@ -33,8 +33,6 @@ Recentemente, tenho focado minha atenção profissional na área de dados, com c
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
-/>
 <img 
     align="left" 
     alt="SQL"
@@ -44,12 +42,6 @@ Recentemente, tenho focado minha atenção profissional na área de dados, com c
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 
-
-/>
-
-/>
-
-/>
 <img 
     align="left" 
     alt="SASS" 
@@ -57,8 +49,6 @@ Recentemente, tenho focado minha atenção profissional na área de dados, com c
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-
 />
 
 <img 
