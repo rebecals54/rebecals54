@@ -2,7 +2,15 @@
 
 **`Aprendiz em Dados🎲`**
 
-Me chamo Rebeca Lima, tenho 27 anos e sou natural do Quixeramobim/CE.Estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Olá, eu sou a Rebeca!
+
+Antes de mais nada, muito obrigada pela visita!
+
+Sou graduanda em Engenharia de Produção pelo IFCE e Análise e Desenvolvimento de Sistemas pela Unifafor. Tenho experiência nas áreas de logística, processos e análise de indicadores. Ao longo da minha carreira, trabalhei com mapeamento e melhoria de processos, desenvolvimento de dashboards em Power BI, monitoramento de KPIs e análise de dados para apoio à tomada de decisões.
+
+Recentemente, tenho focado minha atenção profissional na área de dados, com cursos de Business Intelligence, fundamentos de dados e programação. Sou apaixonada por aprender, resolver problemas complexos e transformar dados em valor estratégico.
+
+🚀 Busco uma oportunidade como Analista de Dados Júnior ou Estagiária em BI/Data Analytics, onde possa aplicar minha formação técnica, pensamento analítico e experiência prática em melhorias operacionais.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
