@@ -10,8 +10,6 @@ Sou graduanda em Engenharia de Produção pelo IFCE e Análise e Desenvolvimento
 
 Recentemente, tenho focado minha atenção profissional na área de dados, com cursos de Business Intelligence, fundamentos de dados e programação. Sou apaixonada por aprender, resolver problemas complexos e transformar dados em valor estratégico.
 
-🚀 Busco uma oportunidade como Analista de Dados Júnior ou Estagiária em BI/Data Analytics, onde possa aplicar minha formação técnica, pensamento analítico e experiência prática em melhorias operacionais.
-
 
 ---
 
