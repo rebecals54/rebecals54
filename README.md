@@ -13,7 +13,7 @@ Recentemente, tenho focado minha atenção profissional na área de dados, com c
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👩‍💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
